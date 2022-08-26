@@ -1,5 +1,5 @@
 # 8051-snake
-a game of snake running on an 8051 microcontroller with an led matrix as the display.
+a game of snake running on an 8051 microcontroller with a led matrix as the display.
 
 # display
 https://user-images.githubusercontent.com/23479802/186889984-08f5c190-e826-493b-9488-545a02dd7a5e.mp4
